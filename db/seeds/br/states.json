@@ -1,0 +1,191 @@
+[
+  {
+    "id": 11,
+    "name": "Rondônia",
+    "slug": "rondonia",
+    "abbreviation": "RO",
+    "capitalId": 1100205
+  },
+  {
+    "id": 12,
+    "name": "Acre",
+    "slug": "acre",
+    "abbreviation": "AC",
+    "capitalId": 1200401
+  },
+  {
+    "id": 13,
+    "name": "Amazonas",
+    "slug": "amazonas",
+    "abbreviation": "AM",
+    "capitalId": 1302603
+  },
+  {
+    "id": 14,
+    "name": "Roraima",
+    "slug": "roraima",
+    "abbreviation": "RR",
+    "capitalId": 1400100
+  },
+  {
+    "id": 15,
+    "name": "Pará",
+    "slug": "para",
+    "abbreviation": "PA",
+    "capitalId": 1501402
+  },
+  {
+    "id": 16,
+    "name": "Amapá",
+    "slug": "amapa",
+    "abbreviation": "AP",
+    "capitalId": 1600303
+  },
+  {
+    "id": 17,
+    "name": "Tocantins",
+    "slug": "tocantins",
+    "abbreviation": "TO",
+    "capitalId": 1721000
+  },
+  {
+    "id": 21,
+    "name": "Maranhão",
+    "slug": "maranhao",
+    "abbreviation": "MA",
+    "capitalId": 2111300
+  },
+  {
+    "id": 22,
+    "name": "Piauí",
+    "slug": "piaui",
+    "abbreviation": "PI",
+    "capitalId": 2211001
+  },
+  {
+    "id": 23,
+    "name": "Ceará",
+    "slug": "ceara",
+    "abbreviation": "CE",
+    "capitalId": 2304400
+  },
+  {
+    "id": 24,
+    "name": "Rio Grande do Norte",
+    "slug": "rio-grande-do-norte",
+    "abbreviation": "RN",
+    "capitalId": 2408102
+  },
+  {
+    "id": 25,
+    "name": "Paraíba",
+    "slug": "paraiba",
+    "abbreviation": "PB",
+    "capitalId": 2507507
+  },
+  {
+    "id": 26,
+    "name": "Pernambuco",
+    "slug": "pernambuco",
+    "abbreviation": "PE",
+    "capitalId": 2611606
+  },
+  {
+    "id": 27,
+    "name": "Alagoas",
+    "slug": "alagoas",
+    "abbreviation": "AL",
+    "capitalId": 2704302
+  },
+  {
+    "id": 28,
+    "name": "Sergipe",
+    "slug": "sergipe",
+    "abbreviation": "SE",
+    "capitalId": 2800308
+  },
+  {
+    "id": 29,
+    "name": "Bahia",
+    "slug": "bahia",
+    "abbreviation": "BA",
+    "capitalId": 2927408
+  },
+  {
+    "id": 31,
+    "name": "Minas Gerais",
+    "slug": "minas-gerais",
+    "abbreviation": "MG",
+    "capitalId": 3106200
+  },
+  {
+    "id": 32,
+    "name": "Espírito Santo",
+    "slug": "espirito-santo",
+    "abbreviation": "ES",
+    "capitalId": 3205309
+  },
+  {
+    "id": 33,
+    "name": "Rio de Janeiro",
+    "slug": "rio-de-janeiro",
+    "abbreviation": "RJ",
+    "capitalId": 3304557
+  },
+  {
+    "id": 35,
+    "name": "São Paulo",
+    "slug": "sao-paulo",
+    "abbreviation": "SP",
+    "capitalId": 3550308
+  },
+  {
+    "id": 41,
+    "name": "Paraná",
+    "slug": "parana",
+    "abbreviation": "PR",
+    "capitalId": 4106902
+  },
+  {
+    "id": 42,
+    "name": "Santa Catarina",
+    "slug": "santa-catarina",
+    "abbreviation": "SC",
+    "capitalId": 4205407
+  },
+  {
+    "id": 43,
+    "name": "Rio Grande do Sul",
+    "slug": "rio-grande-do-sul",
+    "abbreviation": "RS",
+    "capitalId": 4314902
+  },
+  {
+    "id": 50,
+    "name": "Mato Grosso do Sul",
+    "slug": "mato-grosso-do-sul",
+    "abbreviation": "MS",
+    "capitalId": 5002704
+  },
+  {
+    "id": 51,
+    "name": "Mato Grosso",
+    "slug": "mato-grosso",
+    "abbreviation": "MT",
+    "capitalId": 5103403
+  },
+  {
+    "id": 52,
+    "name": "Goiás",
+    "slug": "goias",
+    "abbreviation": "GO",
+    "capitalId": 5208707
+  },
+  {
+    "id": 53,
+    "name": "Distrito Federal",
+    "slug": "distrito-federal",
+    "abbreviation": "DF",
+    "capitalId": 5300108
+  }
+]
